@@ -1,3 +1,4 @@
+<img width="2364" height="1773" alt="豆包" src="https://github.com/user-attachments/assets/2b01c3b0-dbcd-42c1-b419-ce8316d9a836" />
 # 基于 STM32 的直流电压电流功率监控器 (INA226 + SPI OLED)
 
 这是一个基于 **STM32F103C8T6** 开发的直流系统参数监测项目。该设备利用 **INA226** 高精度功率监控芯片实时采集总线电压、电流和功率，并通过 **SPI OLED** 屏幕进行可视化显示。
